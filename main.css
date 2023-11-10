@@ -1,0 +1,39 @@
+img{
+    float: right;
+    width: 200px;
+    height: 200px;
+    margin-left: 15px;
+    
+  }
+  .comment {
+    border: 1px solid #dddddd;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  .biru{
+    background-color: rgb(236, 104, 17);
+  }
+
+
+  .body{
+    background-color: aqua;
+  }
+
+.h1{
+  background-color: red(236, 104, 17);
+}
+
+
+.div{
+  background-color: aqua;
+}
+
+.table{
+  background-color: aquamarine;
+}
+
+
+.h3{
+
+  color-scheme: red;
+}
